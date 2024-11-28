@@ -1,0 +1,19 @@
+body{
+    color:aliceblue;
+    background: rgb(233, 82, 28)
+}
+
+header{
+
+    border-bottom: solid 6px rgba(54, 32, 3, 0.247); //bordercirculaotxt
+    padding: ;: 20px;
+    font-size: 60px;
+    color: rgb(50,25,23);
+}
+
+
+div{
+    background-color: rgb(41, 20, 1);
+    margin: 100px;
+    padding: 50px;
+}
